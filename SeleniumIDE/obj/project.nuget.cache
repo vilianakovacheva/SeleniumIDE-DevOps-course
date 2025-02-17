@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "nU12UFNgztuNxEBbGNAzgXAVsPbFYRy+7Tz0J+9c6otTnEpP0mkrbsl2sU0fRYSdJVh8ZDBnYgHpGeR7w0mOyg==",
+  "success": true,
+  "projectFilePath": "/Users/vilianakovacheva/Desktop/devops/10-Exercise-CI-CD-Jenkins-Resources/05-SeleniumIDE/SeleniumIDE/SeleniumIde.csproj",
+  "expectedPackageFiles": [
+    "/Users/vilianakovacheva/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.testplatform.objectmodel/17.1.0/microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.testplatform.testhost/17.1.0/microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/nunit.analyzers/3.3.0/nunit.analyzers.3.3.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/selenium.webdriver/4.21.0/selenium.webdriver.4.21.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/selenium.webdriver.chromedriver/127.0.6533.7200/selenium.webdriver.chromedriver.127.0.6533.7200.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/vilianakovacheva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
